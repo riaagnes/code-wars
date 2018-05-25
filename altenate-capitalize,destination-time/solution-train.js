@@ -7,4 +7,5 @@ function reachDestination(distance, speed) {
    else if(answer2 > 0 && answer2 !== 1){
    return('The train will be there in ' + answer2 + ' hours.');
    }
+   
   }
